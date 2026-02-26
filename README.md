@@ -1,4 +1,4 @@
-#  Contrôle de vitesse d’un moteur DC par PID (Système embarqué)
+## 1)  Contrôle de vitesse d’un moteur DC par PID (Système embarqué)
 
 ##  Objectif
 
@@ -29,7 +29,7 @@ C/C++, microcontrôleur (ATmega/AVR), oscilloscope, électronique de puissance.
 
 Mallem Mouloud Rayan
 
- ## Générateur Basse Fréquence (GBF) – Projet Électronique
+ ## 2) Générateur Basse Fréquence (GBF) – Projet Électronique
 
  ## Description
 
