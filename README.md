@@ -11,7 +11,7 @@ Ce dépôt regroupe deux projets réalisés et validés par mesures (oscilloscop
 ### 1) PID speed control of a DC motor (Embedded)
 📁 Dossier : Projet_PID
 📄 Rapport : Doc_PID 
-🖼️ Résultats : Media_PID
+🖼️ Résultats : media_PID
 
 Ce que j’ai fait
 - PWM via timers, gestion temps réel
@@ -27,7 +27,7 @@ Preuves
 ### 2) GBF – Générateur de basse fréquence (KiCad + PCB)
 📁 Dossier : Projet_GBF
 📄 Rapport : Doc_GBF 
-🖼️ Résultats : Media_GBF
+🖼️ Résultats : media_GBF
 
 Ce que j’ai fait
 - Schéma + dimensionnement
