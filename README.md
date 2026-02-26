@@ -1,21 +1,21 @@
-## 1)  Contrôle de vitesse d’un moteur DC par PID (Système embarqué)
+## 1) Contrôle de vitesse d’un moteur DC par PID (Système embarqué)
 
-##  Objectif
+## Objectif
 
 Concevoir et implémenter un contrôleur PID afin de réguler la vitesse d’un moteur à courant continu en utilisant un encodeur.
 
-##  Ce que j’ai réalisé
+## Ce que j’ai réalisé
 
 * Génération PWM (timers)
 * Lecture de l’encodeur (interruptions)
 * Boucle PID et réglage des gains
 * Validation par mesures (oscilloscope / courbes)
 
-##  Résultats 
+## Résultats
 
-Voir le dossier `media/` pour les réponses indicielle (step response) et les captures de validation.
+Voir le dossier `media/` pour les réponses indicielles (step response) et les captures de validation.
 
-##  Fichiers
+## Fichiers
 
 * `docs/` : rapport
 * `media/` : mesures et photos
@@ -25,20 +25,20 @@ Voir le dossier `media/` pour les réponses indicielle (step response) et les ca
 
 C/C++, microcontrôleur (ATmega/AVR), oscilloscope, électronique de puissance.
 
-##  Auteur
+## Auteur
 
 Mallem Mouloud Rayan
 
- ## 2) Générateur Basse Fréquence (GBF) – Projet Électronique
+---
 
- ## Description
+## 2) Générateur Basse Fréquence (GBF) – Projet Électronique
+
+## Description
 
 Ce projet consiste à concevoir et réaliser un générateur basse fréquence (GBF) capable de produire différents signaux analogiques (triangle, carré, sinus).
 Le circuit a été simulé sous **LTspice**, conçu avec KiCad, puis fabriqué sur une carte PCB réelle.
 
----
-
- ## Objectifs
+## Objectifs
 
 * Concevoir un GBF analogique à base d'amplificateurs opérationnels.
 * Générer plusieurs formes d’onde :
@@ -48,60 +48,26 @@ Le circuit a été simulé sous **LTspice**, conçu avec KiCad, puis fabriqué s
   * Signal sinusoïdal
 * Réaliser la carte électronique et valider le fonctionnement expérimental.
 
----
-
- ##  Outils utilisés
+## Outils utilisés
 
 * LTspice (simulation)
 * KiCad (schéma et PCB)
 * Soudure électronique
 
----
+##  Images et schémas
 
- ##  Schémas électroniques
+Toutes les photos, schémas et captures sont disponibles dans le dossier `media/`.
 
-Schéma LTspice
-
-[Schema LTspice](images/photo_extraite_3.jpg)
-
- Schéma KiCad
-
-[Schema KiCad](images/photo_extraite_2.jpg)
-
- Layout PCB
-
-![PCB Layout](images/photo_extraite_1.jpg)
-
----
-
- ##   Réalisation pratique
-
- Carte avec composants
-
-[Carte electronique](images/photo_extraite_5.jpg)
-
-Exemple de soudure
-
-[Soudure](images/photo_extraite_4.jpg)
-
----
-
- ##  Résultats
+## Résultats
 
 * Génération correcte des signaux en sortie.
 * Validation expérimentale après réalisation du PCB.
 * Test des soudures et vérification des connexions.
 
----
+## Auteur
 
- ##   Auteur
+MALLEM MOULOUD RAYAN
 
-* MALLEM MOULOUD RAYAN
-
-
----
-
- ##  Références
+## Références
 
 * https://fr.wikipedia.org/wiki/Signal_triangulaire
-
