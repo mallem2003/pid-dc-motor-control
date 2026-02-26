@@ -1,26 +1,32 @@
-# PID Speed Control of a DC Motor (Embedded)
+#  Contrôle de vitesse d’un moteur DC par PID (Système embarqué)
 
-## Goal
-Design and implement a PID controller to regulate DC motor speed using an encoder.
+##  Objectif
 
-## What I implemented
-- PWM generation (timers)
-- Encoder reading (interrupts)
-- PID loop and tuning
-- Validation with measurements (oscilloscope / plots)
+Concevoir et implémenter un contrôleur PID afin de réguler la vitesse d’un moteur à courant continu en utilisant un encodeur.
 
-## Results (proof)
-See `media/` for step response plots and validation screenshots.
+##  Ce que j’ai réalisé
 
-## Files
-- `docs/` report
-- `media/` measurements and photos
-- `src/` source code (if available)
+* Génération PWM (timers)
+* Lecture de l’encodeur (interruptions)
+* Boucle PID et réglage des gains
+* Validation par mesures (oscilloscope / courbes)
 
-## Tools
-C/C++, microcontroller (ATmega/AVR), oscilloscope, power electronics.
+##  Résultats 
 
-## Author
+Voir le dossier `media/` pour les réponses indicielle (step response) et les captures de validation.
+
+##  Fichiers
+
+* `docs/` : rapport
+* `media/` : mesures et photos
+* `src/` : code source (si disponible)
+
+## Outils
+
+C/C++, microcontrôleur (ATmega/AVR), oscilloscope, électronique de puissance.
+
+##  Auteur
+
 Mallem Mouloud Rayan
 
  ## Générateur Basse Fréquence (GBF) – Projet Électronique
