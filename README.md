@@ -19,7 +19,6 @@ Voir le dossier `media/` pour les réponses indicielles (step response) et les c
 
 * `docs/` : rapport
 * `media/` : mesures et photos
-* `src/` : code source (si disponible)
 
 ## Outils
 
