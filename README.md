@@ -17,7 +17,7 @@ Voir le dossier `media/` pour les réponses indicielles (step response) et les c
 
 ## Fichiers
 
-* `docs/` : rapport
+* `doc/` : rapport
 * `media/` : mesures et photos
 
 ## Outils
